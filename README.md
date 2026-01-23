@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🔗 Onchain Analyst | Analytics Engineer | Operations 
+### 🔗 Onchain Analytics | Analytics Engineer | Operations 
 
 ---
 
