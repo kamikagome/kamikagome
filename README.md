@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Follow me on X: 
 <a href="https://x.com/genki_sudo132">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
 </a>
