@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🔗 Data Analyst | Onchain Data 
+### 🔗 Data Analyst | Analytics Engineer | Recovering vibecoder | Onchain Data 
 
 ---
 
