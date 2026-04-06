@@ -36,7 +36,7 @@
 ---
 ### 📊 Onchain Analytics Portfolio
 <a href="https://dune.com/genkisudo123">
-  <img src="https://img.shields.io/badge/Dune_Dashboard-ea4c89?style=for-the-badge&logo=dune&logoColor=white" alt="Dune Dashboard"/>
+  <img src="https://img.shields.io/badge/Dune_Dashboard-ea4c89?style=for-the-badge&logo=dune&logoColor=white" alt="Dune Dashboards"/>
 </a>
 
 ### 📫 Follow me on X: 
